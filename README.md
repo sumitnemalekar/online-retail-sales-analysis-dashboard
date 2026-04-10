@@ -73,4 +73,3 @@ The following cleaning steps were performed:
 - Power BI dashboard (.pbix)
 - Dashboard screenshots
 - Final report PDF
-```
