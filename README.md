@@ -74,16 +74,3 @@ The following cleaning steps were performed:
 - Dashboard screenshots
 - Final report PDF
 ```
- 
-# Files You Should Upload to GitHub
-
-1. Cleaned CSV file
-2. Original raw dataset
-3. Power BI dashboard file (.pbix)
-4. Dashboard screenshots
-5. Final PDF report
-6. README.md
-
----
-
- 
