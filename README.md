@@ -74,18 +74,7 @@ The following cleaning steps were performed:
 - Dashboard screenshots
 - Final report PDF
 ```
-
----
-
-# requirements.txt Content
-
-```text
-Power BI Desktop
-CSV File
-```
-
----
-
+ 
 # Files You Should Upload to GitHub
 
 1. Cleaned CSV file
